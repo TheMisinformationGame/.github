@@ -6,6 +6,8 @@ The Misinformation Game is a social media simulator built to study people’s be
 
 **Main Repository:** [https://github.com/TheMisinformationGame/MisinformationGame](https://github.com/TheMisinformationGame/MisinformationGame)
 
+**Pre-print in PsyArXiv:** [https://zpr.io/ZsV8ZBqxqsyz](https://zpr.io/ZsV8ZBqxqsyz)
+
 If you would like to try a study created using
 The Misinformation Game, you can access an example game from
 [here](https://themisinformationgame.github.io//link/ExampleGame).
