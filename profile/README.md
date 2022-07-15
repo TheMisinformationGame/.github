@@ -16,7 +16,7 @@ social media related questions.
 
 **Documentation:** [Misinformation Game Docs](https://themisinformationgame.github.io/)
 
-**Source Code:** [MisinformationGame repository](https://github.com/TheMisinformationGame/MisinformationGame)
+**Source Code:** [MisinformationGame Repository](https://github.com/TheMisinformationGame/MisinformationGame)
 
 If you would like to try a study created using
 The Misinformation Game, you can access an example game from
