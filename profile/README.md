@@ -10,7 +10,7 @@ for participants. This customisability is a core focus of The
 Misinformation Game, to facilitate the research of a wide array of
 social media related questions.
 
-**Preprint Paper:** [PsyArXiv](https://zpr.io/ZsV8ZBqxqsyz)
+**Preprint Paper:** [PsyArXiv](https://psyarxiv.com/628wc/)
 
 **Documentation:** [Misinformation Game Docs](https://themisinformationgame.github.io/)
 
