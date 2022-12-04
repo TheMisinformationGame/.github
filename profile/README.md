@@ -1,4 +1,4 @@
-![The Misinformation Game](banner.png)
+![The Misinformation Game](/profile/banner.png)
 ------------------------------------------------------
 
 The Misinformation Game is a social media simulator built to study
